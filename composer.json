@@ -1,0 +1,13 @@
+{
+    "name": "rnsfirebase/realtime-database",
+    "description": "PHP Firebase Realtime Database For Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rhamad Nursani Sidik"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
